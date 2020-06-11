@@ -3,10 +3,8 @@
 > ## 职业发展全景图
 > [百度](http://baidu.com)
 >> ![全景图](https://github.com/brianxj/brian-management/blob/master/picture/%E5%85%A8%E6%99%AF%E5%9B%BE.jpg "职业发展全景图")
-> ## 要不要做管理
->> yao
-> ## 要不要转回去做技术
->> buyao
+> ## [要不要做管理](https://github.com/brianxj/brian-management/blob/master/doc/should_I_take_up_management.md)
+> ## [要不要转回去做技术]()
 > ## 作为技术管理者，如何保持技术判断力？
 > ## 管理风格
 > ## 管理要做哪些事
