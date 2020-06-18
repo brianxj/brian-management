@@ -6,12 +6,12 @@
 > ## [要不要转回去做技术](https://github.com/brianxj/brian-management/blob/master/doc/Should_I_switch_back_to_technology.md)
 > ## [作为技术管理者，如何保持技术判断力？](https://github.com/brianxj/brian-management/blob/master/doc/Maintain_technical_judgment.md)
 > ## [管理风格](https://github.com/brianxj/brian-management/blob/master/doc/Management_Style.md)
-> ## [管理要做哪些事]()
-> ## 从工程师到管理者角色发生了哪些变化？
-> ## 团队规划四要素
-> ## 如何明确团队职能
-> ## 团队建设该从哪里入手？
-> ## 如何培养核心人才
-> ## 如何和低绩效员工谈绩效
+> ## [管理要做哪些事](https://github.com/brianxj/brian-management/blob/master/doc/Manage_what_to_do.md)
+> ## [从工程师到管理者角色发生了哪些变化？]()
+> ## [团队规划四要素]()
+> ## [如何明确团队职能]()
+> ## [团队建设该从哪里入手？]()
+> ## [如何培养核心人才]()
+> ## [如何和低绩效员工谈绩效]()
 > ## 
 > ## 
