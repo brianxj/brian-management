@@ -12,6 +12,6 @@
 > ## [如何明确团队职能]()
 > ## [团队建设该从哪里入手？]()
 > ## [如何培养核心人才](https://github.com/brianxj/brian-management/blob/master/doc/How_to_cultivate_core_talents.md)
-> ## [如何和低绩效员工谈绩效]()
+> ## [如何和低绩效员工谈绩效](https://github.com/brianxj/brian-management/blob/master/doc/How_to_talk_about_performance_with_low_performers.md)
 > ## 
 > ## 
