@@ -7,7 +7,7 @@
 > ## [作为技术管理者，如何保持技术判断力？](https://github.com/brianxj/brian-management/blob/master/doc/Maintain_technical_judgment.md)
 > ## [管理风格](https://github.com/brianxj/brian-management/blob/master/doc/Management_Style.md)
 > ## [管理要做哪些事](https://github.com/brianxj/brian-management/blob/master/doc/Manage_what_to_do.md)
-> ## [从工程师到管理者角色发生了哪些变化？]()
+> ## [从工程师到管理者角色发生了哪些变化？](https://github.com/brianxj/brian-management/blob/master/doc/What_has_changed_from_engineers_to_managerial_roles.md)
 > ## [团队规划四要素]()
 > ## [如何明确团队职能]()
 > ## [团队建设该从哪里入手？]()
